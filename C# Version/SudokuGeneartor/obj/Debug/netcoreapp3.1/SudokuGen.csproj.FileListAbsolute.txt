@@ -1,0 +1,15 @@
+E:\Arjun's Interesting And Cool Stuff (VIF)\C# Stuff\LearningC#1\LearningC#1\SudokuGeneartor\bin\Debug\netcoreapp3.1\SudokuGen.exe
+E:\Arjun's Interesting And Cool Stuff (VIF)\C# Stuff\LearningC#1\LearningC#1\SudokuGeneartor\bin\Debug\netcoreapp3.1\SudokuGen.deps.json
+E:\Arjun's Interesting And Cool Stuff (VIF)\C# Stuff\LearningC#1\LearningC#1\SudokuGeneartor\bin\Debug\netcoreapp3.1\SudokuGen.runtimeconfig.json
+E:\Arjun's Interesting And Cool Stuff (VIF)\C# Stuff\LearningC#1\LearningC#1\SudokuGeneartor\bin\Debug\netcoreapp3.1\SudokuGen.runtimeconfig.dev.json
+E:\Arjun's Interesting And Cool Stuff (VIF)\C# Stuff\LearningC#1\LearningC#1\SudokuGeneartor\bin\Debug\netcoreapp3.1\SudokuGen.dll
+E:\Arjun's Interesting And Cool Stuff (VIF)\C# Stuff\LearningC#1\LearningC#1\SudokuGeneartor\bin\Debug\netcoreapp3.1\SudokuGen.pdb
+E:\Arjun's Interesting And Cool Stuff (VIF)\C# Stuff\LearningC#1\LearningC#1\SudokuGeneartor\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Arjun's Interesting And Cool Stuff (VIF)\C# Stuff\LearningC#1\LearningC#1\SudokuGeneartor\obj\Debug\netcoreapp3.1\SudokuGen.csprojAssemblyReference.cache
+E:\Arjun's Interesting And Cool Stuff (VIF)\C# Stuff\LearningC#1\LearningC#1\SudokuGeneartor\obj\Debug\netcoreapp3.1\SudokuGen.AssemblyInfoInputs.cache
+E:\Arjun's Interesting And Cool Stuff (VIF)\C# Stuff\LearningC#1\LearningC#1\SudokuGeneartor\obj\Debug\netcoreapp3.1\SudokuGen.AssemblyInfo.cs
+E:\Arjun's Interesting And Cool Stuff (VIF)\C# Stuff\LearningC#1\LearningC#1\SudokuGeneartor\obj\Debug\netcoreapp3.1\SudokuGen.csproj.CoreCompileInputs.cache
+E:\Arjun's Interesting And Cool Stuff (VIF)\C# Stuff\LearningC#1\LearningC#1\SudokuGeneartor\obj\Debug\netcoreapp3.1\SudokuGen.csproj.CopyComplete
+E:\Arjun's Interesting And Cool Stuff (VIF)\C# Stuff\LearningC#1\LearningC#1\SudokuGeneartor\obj\Debug\netcoreapp3.1\SudokuGen.dll
+E:\Arjun's Interesting And Cool Stuff (VIF)\C# Stuff\LearningC#1\LearningC#1\SudokuGeneartor\obj\Debug\netcoreapp3.1\SudokuGen.pdb
+E:\Arjun's Interesting And Cool Stuff (VIF)\C# Stuff\LearningC#1\LearningC#1\SudokuGeneartor\obj\Debug\netcoreapp3.1\SudokuGen.genruntimeconfig.cache

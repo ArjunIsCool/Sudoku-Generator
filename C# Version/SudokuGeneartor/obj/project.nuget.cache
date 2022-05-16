@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mMsXd2tBkRtGYOvF00FDjzywbPmzEdLiPAeCcFCBuHzm0v9FZejEy5L85iFkKGE4BQAyKRANvpeZMwglX93Rww==",
+  "success": true,
+  "projectFilePath": "E:\\Arjun's Interesting And Cool Stuff (VIF)\\C# Stuff\\LearningC#1\\LearningC#1\\SudokuGeneartor\\SudokuGen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ArjunIsCool\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

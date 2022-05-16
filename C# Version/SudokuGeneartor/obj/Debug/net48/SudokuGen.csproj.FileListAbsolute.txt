@@ -1,0 +1,11 @@
+E:\Arjun's Interesting And Cool Stuff (VIF)\C# Stuff\LearningC#1\LearningC#1\SudokuGeneartor\bin\Debug\net48\SudokuGen.exe.config
+E:\Arjun's Interesting And Cool Stuff (VIF)\C# Stuff\LearningC#1\LearningC#1\SudokuGeneartor\bin\Debug\net48\SudokuGen.exe
+E:\Arjun's Interesting And Cool Stuff (VIF)\C# Stuff\LearningC#1\LearningC#1\SudokuGeneartor\bin\Debug\net48\SudokuGen.pdb
+E:\Arjun's Interesting And Cool Stuff (VIF)\C# Stuff\LearningC#1\LearningC#1\SudokuGeneartor\bin\Debug\net48\Newtonsoft.Json.dll
+E:\Arjun's Interesting And Cool Stuff (VIF)\C# Stuff\LearningC#1\LearningC#1\SudokuGeneartor\obj\Debug\net48\SudokuGen.csprojAssemblyReference.cache
+E:\Arjun's Interesting And Cool Stuff (VIF)\C# Stuff\LearningC#1\LearningC#1\SudokuGeneartor\obj\Debug\net48\SudokuGen.AssemblyInfoInputs.cache
+E:\Arjun's Interesting And Cool Stuff (VIF)\C# Stuff\LearningC#1\LearningC#1\SudokuGeneartor\obj\Debug\net48\SudokuGen.AssemblyInfo.cs
+E:\Arjun's Interesting And Cool Stuff (VIF)\C# Stuff\LearningC#1\LearningC#1\SudokuGeneartor\obj\Debug\net48\SudokuGen.csproj.CoreCompileInputs.cache
+E:\Arjun's Interesting And Cool Stuff (VIF)\C# Stuff\LearningC#1\LearningC#1\SudokuGeneartor\obj\Debug\net48\SudokuGen.csproj.CopyComplete
+E:\Arjun's Interesting And Cool Stuff (VIF)\C# Stuff\LearningC#1\LearningC#1\SudokuGeneartor\obj\Debug\net48\SudokuGen.exe
+E:\Arjun's Interesting And Cool Stuff (VIF)\C# Stuff\LearningC#1\LearningC#1\SudokuGeneartor\obj\Debug\net48\SudokuGen.pdb
