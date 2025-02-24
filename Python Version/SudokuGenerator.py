@@ -141,7 +141,6 @@ def removeNumber():
     if(counter == 1):
         removeNumber()
     else:
-        print("EHHHHHHHHHHHH")
         attempts -= 1
         grid[row][col] = oldValue
         if(attempts > 0):
